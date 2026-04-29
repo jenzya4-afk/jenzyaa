@@ -1,0 +1,11 @@
+# Jenzya — robots.txt
+# https://www.jenzya.com/
+
+User-agent: *
+Allow: /
+
+# Block unnecessary files from indexing
+Disallow: /cdn-cgi/
+
+# Sitemap location
+Sitemap: https://www.jenzya.com/sitemap.xml
